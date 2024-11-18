@@ -11,7 +11,7 @@
 sudo -s
 ``` 
 ```
-wget "https://raw.githubusercontent.com/NevermoreSSH/SSHUDPCUSTOM/main/install.sh" -O install.sh && chmod +x install.sh && ./install.sh
+wget "https://raw.githubusercontent.com/Sanjays85141/SSHUDPCUSTOMB/main/install.sh" -O install.sh && chmod +x install.sh && ./install.sh
 ```
 
 
